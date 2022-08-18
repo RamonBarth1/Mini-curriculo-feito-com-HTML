@@ -1,0 +1,25 @@
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;    
+    font-size: larger;
+    font-size: 30px;
+}
+
+h2 {
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 20px;
+color: black;
+border-style: solid;
+border-bottom-left-radius: 10px;
+}
+
+button {
+    background-color: rgb(117, 203, 230);
+   
+}
+
+
+
+img {
+    border-style: solid;
+    background-color:black;
+    }
